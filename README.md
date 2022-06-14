@@ -1,0 +1,2 @@
+The original Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository is a classification dataset,
+which records the measurements for breast cancer cases.There are two classes, benign and malignant.
